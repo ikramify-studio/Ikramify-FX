@@ -1,0 +1,5 @@
+{
+  "name": "IkramiFy FX",
+  "description": "AI-powered artistic image transformation tool for pencil sketches, cartoons, and neon effects.",
+  "requestFramePermissions": ["camera"]
+}
